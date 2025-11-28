@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 
 // Initialize Gemini
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: process.env.API_KEY || "TEMP_KEY_FOR_DEMO" });
 
 export const getBadmintonTips = async (
   stats: { won: number; played: number; form: string[] },
