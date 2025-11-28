@@ -1,0 +1,5 @@
+{
+  "name": "BadmintonHub",
+  "description": "A mobile-first progressive web app for badminton clubs to manage sessions, track rankings, and record matches with AI coaching insights.",
+  "requestFramePermissions": []
+}
