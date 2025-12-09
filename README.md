@@ -9,8 +9,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Google%20Gemini-8E75B2?logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 
-[View Demo](#) · [Report Bug](#) · [Request Feature](#)
-
 </div>
 
 ---
@@ -21,8 +19,7 @@
 
 Unique to BadmintonHub is the **AI Coach**, powered by **Google Gemini 2.5 Flash**, which analyzes match history to provide personalized, tactical advice to help players level up.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Place+Your+App+Screenshot+Here)
-*(Tip: Replace the link above with a real screenshot of your app)*
+![Dashboard Preview](https://w6212830602.github.io/BadmintonHub/))
 
 ---
 
