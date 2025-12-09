@@ -19,8 +19,6 @@
 
 Unique to BadmintonHub is the **AI Coach**, powered by **Google Gemini 2.5 Flash**, which analyzes match history to provide personalized, tactical advice to help players level up.
 
-![Dashboard Preview](https://w6212830602.github.io/BadmintonHub/))
-
 ---
 
 ## ✨ Key Features
