@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
 
-// Initialize Gemini AI client
+// Initialize Gemini 
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY || "TEMP_KEY_FOR_DEMO" });
 
 export const getBadmintonTips = async (
