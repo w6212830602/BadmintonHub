@@ -302,7 +302,7 @@ const MatchItem: React.FC<MatchItemProps> = ({ match, players }) => {
                  </div>
              </div>
 
-             {/* Team B Avatars */}
+             {/* Team B's Avatars */}
              <div className={`flex-1 flex justify-start gap-1 ${!isWinnerA ? 'opacity-100' : 'opacity-60'}`}>
                 {match.teamB.map(pid => (
                     <Avatar key={pid} url={getPlayer(pid)?.avatarUrl} alt="" size="sm" className="w-8 h-8 border-2 border-white" />
